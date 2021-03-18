@@ -18,7 +18,5 @@ for example, if the parameter file is `j1939_params`, then the full path of the 
 
 *Note that there's no extension for this file*
 
-You can upload the file remotely using [SyrusCloud](https://cloud.digitalcomtech.com) - [Instructions](https://syrus.digitalcomtech.com/syrdocs/syrus4/manage/syrus-cloud.html#commands).
-
-or if you have direct access via Wifi or USB you can use the Syrus 4 [Management Tool UI](https://syrus.digitalcomtech.com/syrdocs/syrus4/manage/syrus4-ui.html#ecu) to upload the file as well. 
+You can upload the file remotely using [SyrusCloud](https://cloud.digitalcomtech.com), click here for [instructions](https://syrus.digitalcomtech.com/syrdocs/syrus4/manage/syrus-cloud.html#commands), if you have direct access via Wifi or USB you can use the Syrus 4 [Management Tool UI](https://syrus.digitalcomtech.com/syrdocs/syrus4/manage/syrus4-ui.html#ecu) to upload the file as well. 
 
